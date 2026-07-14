@@ -1,0 +1,1 @@
+# Page_turn_animation.koplugin
